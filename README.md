@@ -4,7 +4,8 @@ Homework Assignment 4
 
 Parijat Dube and Zehra Sura
 
-###Part-A: CUDA Matrix Operations 
+Part-A: CUDA Matrix Operations 
+===============================
 
 The purpose of this exercise is for you to learn how to write programs using the CUDA
 programming interface, how to run such programs using an NVIDIA graphics processor,
@@ -18,11 +19,13 @@ can be optimized by changing how the task is parallelized. You will create an im
 version of the matrix multiplication program and empirically test the time it takes to
 run. You will analyze the results of your timing tests.
 
-###Part-B: CUDA Unified Memory
+Part-B: CUDA Unified Memory
+===============================
 
 In this problem we will compare vector operations executed on host vs on GPU to quantify
 the speed-up.
 
-###Part-C: Convolution in CUDA
+Part-C: Convolution in CUDA
+===============================
 
 We use three Approaches to implement convolution in CUDA.
