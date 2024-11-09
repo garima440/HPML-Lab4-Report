@@ -1,5 +1,7 @@
 ECE-GY 9143 - High Performance Machine Learning
+
 Homework Assignment 4
+
 Parijat Dube and Zehra Sura
 
 ###Part-A: CUDA Matrix Operations 
